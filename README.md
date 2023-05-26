@@ -6,7 +6,6 @@ The James Webb telescope, launched into space on December 25th, 2022, has been c
 
 Despite the original photographs are black and white, they represent a broad range of wavelengths that can be reconstructed to create vivid representations of astronomical phenomena. By converting the infrared spectrum to the visible one, the images get coloured, allowing us to see and explore the universe in a completely new way.
 
-![logo](README.img/southernring51.png)
 ![logo2](README.img/group1.png)
 
 
