@@ -52,7 +52,7 @@ function setup() {
       });
 
       
-    sfondo= loadImage('/sketches/exoplanets/assets/sfondo.png')
+    sfondo= loadImage('./assets/sfondo.png')
 
     //stelline
 	for(let i = 0; i < width*2 ;i++){
@@ -62,8 +62,7 @@ function setup() {
     //stelle cadenti
 	fallingstar = new FallingStar(100, 100);
 
-    planet= loadImage('/sketches/exoplanets/assets/52763565712_ed7c79b90c_o-assets/exoplanet.png')
-
+    planet= loadImage('./assets/52763565712_ed7c79b90c_o-assets/exoplanet.png')
     
 }
 

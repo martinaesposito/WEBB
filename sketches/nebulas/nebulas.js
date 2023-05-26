@@ -48,14 +48,14 @@ function setup() {
       });
 
       
-    sfondo= loadImage('/sketches/nebulas/assets/sfondo.png')
-
-    tarantula= loadImage('/sketches/nebulas/assets/tarantula-assets/tarantula.png')
-    nebula= loadImage('/sketches/nebulas/assets/weic2207b-assets/nebula.png')
-    carina= loadImage('/sketches/nebulas/assets/weic2205a-assets/nebula.png')
-    doppiocono= loadImage('/sketches/nebulas/assets/weic2219a-assets/doppiocono.png')
-    pillars= loadImage('/sketches/nebulas/assets/weic2216b-assets/pillars.png')
-    stelle= loadImage('/sketches/nebulas/assets/weic2216b-assets/stelle.png')
+    sfondo= loadImage('./assets/sfondo.png')
+    
+    tarantula= loadImage('./assets/tarantula-assets/tarantula.png')
+    nebula= loadImage('./assets/weic2207b-assets/nebula.png')
+    carina= loadImage('./assets/weic2205a-assets/nebula.png')
+    doppiocono= loadImage('./assets/weic2219a-assets/doppiocono.png')
+    pillars= loadImage('./assets/weic2216b-assets/pillars.png')
+    stelle= loadImage('./assets/weic2216b-assets/stelle.png')
 
     //stelline
 	for(let i = 0; i < width*2 ;i++){

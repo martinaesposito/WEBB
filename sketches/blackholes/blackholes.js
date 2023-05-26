@@ -89,10 +89,9 @@ function setup() {
     ctx = cnv.drawingContext;
     noStroke()
 
-    sfondo= loadImage('/sketches/blackholes/assets/weic2208a.png')
-    
-    buconero1= loadImage('/sketches/blackholes/assets/buconero2.png')
-    buconero2= loadImage('/sketches/blackholes/assets/STScI-01FJHRDGBN9KP7BTD0Q03487ER-assets/buconero.png')
+    sfondo= loadImage('./assets/weic2208a.png')
+    buconero1= loadImage('./assets/buconero2.png')
+    buconero2= loadImage('./assets/STScI-01FJHRDGBN9KP7BTD0Q03487ER-assets/buconero.png')
 
     addEventListener("resize", (event) => {
         windowWidth = window.innerWidth
