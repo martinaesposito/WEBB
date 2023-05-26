@@ -130,14 +130,14 @@ function setup() {
         resizeCanvas(window.innerWidth, window.innerHeight);
       });
 
-    sfondo= loadImage('/sketches/galaxies/assets/potm2302a.png')
+    sfondo= loadImage('./assets/potm2302a.png')
 
-    galassia= loadImage('/sketches/galaxies/assets/galassia1-assets/galaxy.png')
-    galassia2= loadImage('/sketches/galaxies/assets/galassia2-assets/galassia2.png')
-    galassia3= loadImage('/sketches/galaxies/assets/galassia3-assets/galassia3.png')
+    galassia= loadImage('./assets/galassia1-assets/galaxy.png')
+    galassia2= loadImage('./assets/galassia2-assets/galassia2.png')
+    galassia3= loadImage('./assets/galassia3-assets/galassia3.png')
     
-    geme1= loadImage('/sketches/galaxies/assets/gemelle-assets/geme1.png')
-    geme2= loadImage('/sketches/galaxies/assets/gemelle-assets/geme2.png')
+    geme1= loadImage('./assets/gemelle-assets/geme1.png')
+    geme2= loadImage('./assets/gemelle-assets/geme2.png')
 
     //stelle
 	for(let i = 0; i < width/3 ;i++){

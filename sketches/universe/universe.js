@@ -62,22 +62,22 @@ function setup() {
 
     ellipseMode(CENTER)
 
-    //loadImage('/sketches/universe/assets/campoprofondojw.jpg',  img => { image(img,0,-900,windowWidth,img.height) })
+    //loadImage('./assets/campoprofondojw.jpg',  img => { image(img,0,-900,windowWidth,img.height) })
 
-    campoprofondojw= loadImage('/sketches/universe/assets/campoprofondojw.jpg')
-    stellina= loadImage('/sketches/universe/assets/campoprofondojw-assets/stellina.png')
-    gemelle= loadImage('/sketches/universe/assets/campoprofondojw-assets/gemelle.png')
-    esplosa= loadImage('/sketches/universe/assets/campoprofondojw-assets/rossaesplosa.png')
-    lingua= loadImage('/sketches/universe/assets/campoprofondojw-assets/linguarossa.png')
-    stellona= loadImage('/sketches/universe/assets/campoprofondojw-assets/stellagrande.png')
-    sfondo= loadImage('/sketches/universe/assets/campoprofondojw-assets/sfondo.png')
-    piccolissime= loadImage('/sketches/universe/assets/campoprofondojw-assets/piccolissime.png') 
-    biancatonda= loadImage('/sketches/universe/assets/campoprofondojw-assets/biancatonda.png')
-    biancapiccola= loadImage('/sketches/universe/assets/campoprofondojw-assets/biancapiccola.png')
-    mulinellomini= loadImage('/sketches/universe/assets/campoprofondojw-assets/mulinellomini.png')
-    trittico= loadImage('/sketches/universe/assets/campoprofondojw-assets/trittico.png')
-    linguone= loadImage('/sketches/universe/assets/campoprofondojw-assets/linguone.png')
-    grumino= loadImage('/sketches/universe/assets/campoprofondojw-assets/grumino.png')
+    campoprofondojw= loadImage('./assets/campoprofondojw.jpg')
+    stellina= loadImage('./assets/campoprofondojw-assets/stellina.png')
+    gemelle= loadImage('./assets/campoprofondojw-assets/gemelle.png')
+    esplosa= loadImage('./assets/campoprofondojw-assets/rossaesplosa.png')
+    lingua= loadImage('./assets/campoprofondojw-assets/linguarossa.png')
+    stellona= loadImage('./assets/campoprofondojw-assets/stellagrande.png')
+    sfondo= loadImage('./assets/campoprofondojw-assets/sfondo.png')
+    piccolissime= loadImage('./assets/campoprofondojw-assets/piccolissime.png') 
+    biancatonda= loadImage('./assets/campoprofondojw-assets/biancatonda.png')
+    biancapiccola= loadImage('./assets/campoprofondojw-assets/biancapiccola.png')
+    mulinellomini= loadImage('./assets/campoprofondojw-assets/mulinellomini.png')
+    trittico= loadImage('./assets/campoprofondojw-assets/trittico.png')
+    linguone= loadImage('./assets/campoprofondojw-assets/linguone.png')
+    grumino= loadImage('./assets/campoprofondojw-assets/grumino.png')
     
     //STELE NUOVE
     for(let i = 0; i < 1000; i++){

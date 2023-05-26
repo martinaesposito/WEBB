@@ -119,16 +119,16 @@ let bgImg, cnv, ctx;
 
 function preload() {
   let planetsUrl = [
-    "/sketches/solarsystem/assets/2.png",
-    "/sketches/solarsystem/assets/1.png",
-    "/sketches/solarsystem/assets/3.png",
-    "/sketches/solarsystem/assets/7.png",
-    "/sketches/solarsystem/assets/4.png",
-    "/sketches/solarsystem/assets/6.png",
-    "/sketches/solarsystem/assets/sun.png",
+    "./assets/2.png",
+    "./assets/1.png",
+    "./assets/3.png",
+    "./assets/7.png",
+    "./assets/4.png",
+    "./assets/6.png",
+    "./assets/sun.png",
   ]
 
-  bgImg = loadImage("/sketches/solarsystem/assets/weic2214d.jpg")
+  bgImg = loadImage("./assets/weic2214d.jpg")
 
   for (let i = 0; i < planetsUrl.length; i++) {
     let planet = loadImage(planetsUrl[i])
