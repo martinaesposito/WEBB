@@ -18,6 +18,7 @@ The first image shows various planets within our solar system; the second offers
 The final collages were done using p5js, a powerful and user-friendly JavaScript and Processing library developed for creative coding and generative art. To make the pictures the elements taken by James Webb’s original photographs were combined with simple graphics, such as simple shapes and lines, directly generated with the code. 
 
 ![logo3](README.img/neb.png)
+
 ![logo4](README.img/group2.png)
 
 The final photocollages aren’t scientifically accurate,  but they are not meant to be. The images have been created to conveys the vastness and complexity of our universe through a captivating and interactive experience.
