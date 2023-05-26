@@ -1,5 +1,5 @@
 # WEBB
-#### A series of six animated and interactive photomontages realized by combining James Webb's stunning photographs with the playfullness of code.
+### A series of six animated and interactive photomontages realized by combining James Webb's stunning photographs with the playfullness of code.
 
 ## CONTEXT
 The James Webb telescope, launched into space on December 25th, 2022, has been capturing incredible images of our universe, revolutionizing our understanding of its history and composition. The images, taken using infrared light, have stunned both scientists and non-scientists alike with their beauty and the vast amounts of knowledge they have brought to light.
