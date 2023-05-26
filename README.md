@@ -6,8 +6,8 @@ The James Webb telescope, launched into space on December 25th, 2022, has been c
 
 Despite the original photographs are black and white, they represent a broad range of wavelengths that can be reconstructed to create vivid representations of astronomical phenomena. By converting the infrared spectrum to the visible one, the images get coloured, allowing us to see and explore the universe in a completely new way.
 
-(./README.img/southernring51.png)
-(./README.img/group1.png)
+![logo](README.img/southernring51.png)
+![logo2](README.img/group1.png)
 
 
 ## THE PROJECT
@@ -18,8 +18,8 @@ The first image shows various planets within our solar system; the second offers
 ## BEYOND THE IMAGES
 The final collages were done using p5js, a powerful and user-friendly JavaScript and Processing library developed for creative coding and generative art. To make the pictures the elements taken by James Webb’s original photographs were combined with simple graphics, such as simple shapes and lines, directly generated with the code. 
 
-(./README.img/neb.png)
-(./README.img/group2.png)
+![logo3](README.img/neb.png)
+![logo4](README.img/group2.png)
 
 The final photocollages aren’t scientifically accurate,  but they are not meant to be. The images have been created to conveys the vastness and complexity of our universe through a captivating and interactive experience.
 
